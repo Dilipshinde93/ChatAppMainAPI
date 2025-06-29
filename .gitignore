@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.db
+*.db-shm
+*.db-wal
+/.vs/FriendsAPI/CopilotIndices/17.14.794.21998/SemanticSymbols.db
+/.vs/FriendsAPI/v17/.futdcache.v2
+/.vs/FriendsAPI/v17/.suo
+/.vs/FriendsAPI/v17/DocumentLayout.backup.json
+/.vs/FriendsAPI/v17/DocumentLayout.json
